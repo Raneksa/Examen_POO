@@ -6,7 +6,7 @@ public class OfficialMatch extends Match {
     }
 
     @Override
-    public void terminer() {
+    public void finish() {
         if (points1 > points2) {
             fighter1.addVictory();
             fighter2.addDefeat();
