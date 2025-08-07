@@ -16,5 +16,5 @@ public abstract class Match {
         this.points2 = points2;
     }
 
-    public abstract void terminer();
+    public abstract void finish();
 }
