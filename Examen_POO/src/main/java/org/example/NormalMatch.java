@@ -6,7 +6,7 @@ public class NormalMatch extends Match {
     }
 
     @Override
-    public void terminer() {
-        System.out.println("Match amical terminé.");
+    public void finish() {
+        System.out.println("End of Amical Match");
     }
 }
